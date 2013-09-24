@@ -23,3 +23,6 @@ This repository has a python script built to respond to this last question. In c
     29 (13, 12, 4, 5, 11, 25, 24, 1, 3, 6, 19, 17, 8, 28, 21, 15, 10, 26, 23, 2, 14, 22, 27, 9, 16, 20, 29, 7, 18)
 
 It thus seems that there are plenty of further such sequences that can be arranged. The search as written only goes to 30, but this is simple to modify.
+
+In fact: http://oeis.org/A090461
+There is a conjecture that solutions exist for all n>24.
